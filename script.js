@@ -1,6 +1,6 @@
 const secondhand = document.querySelector('.second-hand')
 
-
+//video paused at 7:47
 
 function setDate(){
     const now = new Date()
